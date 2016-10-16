@@ -4,7 +4,7 @@ public class PrintString {
 public static void main(String args[]){
 
 	System.out.println("priceloader print");
-	System.out.println("finalized");
+	System.out.println("eclipse3.0");
 
 
 }
